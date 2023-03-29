@@ -24,4 +24,4 @@ if len(bigword) > 1:
     print('The most common words are: ',bigword, ' which appeared: ',bigcount,' times')
 else:
     print('The most common word is: ',bigword, ' which appeared: ',bigcount,' times')
-# print(counts.items())
+print(sorted([(v,k) for k,v in counts.items()], reverse=True))

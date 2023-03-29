@@ -1,1 +1,15 @@
-When using Aggravate, some Electro characters like Keqing, Lisa, Kuki, and Fischl may see damage increases or similar output with EM Sands over ATK% Sands. This is because the above characters have low Talent percent scaling per hit but high hit rate and Electro application. For Beidou, this is not the case and ATK% is better 99% of the time (the 1% being teams where Beidou triggers Transformative Reactions). Beidou has comparatively much larger Talent percent scalings which makes increasing her raw damage through ATK% Sands more worthwhile. That being said, Aggravate is still a good reaction for Beidou; you just do not build specifically for it.
+For the mora section, you'll need at the minimum 10 million mora to set up a basic team of 4 level 90 characters + weapons (without artifacts) to comfortably carry you through the majority of end game content. So dont be shy about grinding that, even if you dont need it immediately.
+
+
+
+
+
+Top priority IMO should be maxxing out your weapons. Its not difficult, taking about 2-3 days worth of resin only for the 80-90 upgrade. If you have access to the domain that gives the yellow part, then do it. All your skill damage calculations in Genshin is based off your base attack, which is affected only by weapon level and character level. So upgrade that weapon first and foremost. Resin wise, this is the most efficient use of resin.
+
+
+
+After that, go for character talent upgrade, which increases the multiplier for your skills. At least to level 6 for those you use, and higher for your main carry. Again, resin wise, second most efficient. Of course, ascend your characters whenever needed. I rate ascensions by talent level. Level 80 is about as good as Level 90, so long as the talents are upgraded to 9. IF you're gonna upgrade an 80 to 90, but leave talents at their level 80 state, then dont bother ascending in the first place.
+
+
+
+Just to mention, you need a butt load of mora for these two up to now. Talent upgrades to level 6 takes 360,000 mora only IIRC, but it ramps up significantly as you go. Level 6-9 (before you need crown) takes about 830,000 mora, and level 9-10 takes 700,000. Thats 1.5 million mora per talent to 10. Multiplied by 3 for one character, thats 4.5 million mora total. Realistically speaking, you wont be having enough crowns anyways, so you're looking at 2.4 million mora per character total. So if you dont know what else to farm for, farm mora. I personally farmed about 15 million mora pre AR55, and all of that was spent within a couple months of hitting AR55. Also, farm crystalflies (Anemo and Geo) daily. You need them later for making Condensed Resin for Domain farming (I dont recommend using them for leylines), although you should know that future character Sayu makes farming for them much easier, so maybe dont go overboard for this. 200-300 should be great.
